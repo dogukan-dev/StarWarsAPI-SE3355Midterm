@@ -2,7 +2,7 @@
 
 ## ⚠️ Disclaimer
 
-This project was developed as part of a Web Programming midterm assignment. While the entire application architecture, React components, API integration, and core functionality were implemented by without AI Assistence, certain portions requiring intensive Tailwind CSS styling and README.md specification were done with AI Assistence.But can confirm even those parts are implemented carefully.
+This project was developed as part of a Web Programming midterm assignment. While the entire application architecture, React components, API integration, and core functionality were implemented without AI Assistence, certain portions requiring intensive Tailwind CSS styling and README.md specification were done with AI Assistence.But can confirm even those parts are implemented carefully.
 The project demonstrates proficiency in:
 - React fundamentals (components, hooks, state management)
 - API integration and data handling
